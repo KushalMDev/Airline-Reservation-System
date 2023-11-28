@@ -7,4 +7,5 @@ Key features of the project include:
 3) Ticket Viewing: Users have the ability to view their booked tickets, providing them with all the necessary details of their flight.
 4) Customer Search: Admins can search for a customer in the database, allowing for efficient customer management and service.
 5) Flight Addition: Admins have the ability to add new flights into the database, ensuring the system is always up-to-date with the latest flight schedules.
+   
 This project showcases the effective use of Java and SQL in building a robust and functional system for airline reservations. It demonstrates a good understanding of full-stack development, database connectivity, and user interface design. The system is designed with the end-user in mind, making the process of airline ticket booking a breeze. It also provides admins with the necessary tools to manage the system effectively, ensuring smooth operation and excellent customer service.
